@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n 組長:41023225 \n 組員:41023216', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n 組長:41023225 \n 組員:41023216 \n github: https://github.com/mdecd2023/2b-pj1bg25 \n 網頁: https://mdecd2023.github.io/2b-pj1bg25/content/index.html \n', 'tags': '', 'url': 'About.html'}]};
